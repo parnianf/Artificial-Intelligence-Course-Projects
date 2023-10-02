@@ -22,3 +22,6 @@
 [submodule "Movies-and-TV-Shows-Type-Classification"]
 	path = Movies-and-TV-Shows-Type-Classification
 	url = https://github.com/parnianf/Movies-and-TV-Shows-Type-Classification.git
+[submodule "Divar-Posts-Classification-Using-Naive-Bayes"]
+	path = Divar-Posts-Classification-Using-Naive-Bayes
+	url = https://github.com/parnianf/Divar-Posts-Classification-Using-Naive-Bayes.git
