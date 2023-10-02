@@ -10,3 +10,6 @@
 [submodule "Suduko-Solver-Using-Genetic-Algorithms"]
 	path = Suduko-Solver-Using-Genetic-Algorithms
 	url = https://github.com/parnianf/Suduko-Solver-Using-Genetic-Algorithms.git
+[submodule "Suduko-Solver-Using-Genetic-Algorithm"]
+	path = Suduko-Solver-Using-Genetic-Algorithm
+	url = https://github.com/parnianf/Suduko-Solver-Using-Genetic-Algorithm.git
