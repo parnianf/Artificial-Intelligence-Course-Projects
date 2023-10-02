@@ -19,3 +19,6 @@
 [submodule "Oregon-Wildlife-Image-Classification-Using-Keras"]
 	path = Oregon-Wildlife-Image-Classification-Using-Keras
 	url = https://github.com/parnianf/Oregon-Wildlife-Image-Classification-Using-Keras.git
+[submodule "Movies-and-TV-Shows-Type-Classification"]
+	path = Movies-and-TV-Shows-Type-Classification
+	url = https://github.com/parnianf/Movies-and-TV-Shows-Type-Classification.git
