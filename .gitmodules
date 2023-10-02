@@ -13,3 +13,9 @@
 [submodule "Suduko-Solver-Using-Genetic-Algorithm"]
 	path = Suduko-Solver-Using-Genetic-Algorithm
 	url = https://github.com/parnianf/Suduko-Solver-Using-Genetic-Algorithm.git
+[submodule "Image-Classification-with-Feed-Forward-Neural-Network-from-scratch"]
+	path = Image-Classification-with-Feed-Forward-Neural-Network-from-scratch
+	url = https://github.com/parnianf/Image-Classification-with-Feed-Forward-Neural-Network-from-scratch.git
+[submodule "Oregon-Wildlife-Image-Classification-Using-Keras"]
+	path = Oregon-Wildlife-Image-Classification-Using-Keras
+	url = https://github.com/parnianf/Oregon-Wildlife-Image-Classification-Using-Keras.git
