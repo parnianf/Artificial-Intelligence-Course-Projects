@@ -1,3 +1,12 @@
 [submodule "Informed-And-Uninformed-Search-Algorithms-Implementation"]
 	path = Informed-And-Uninformed-Search-Algorithms-Implementation
 	url = https://github.com/parnianf/Informed-And-Uninformed-Search-Algorithms-Implementation.git
+[submodule "Checkers-Game-Using-Minimax"]
+	path = Checkers-Game-Using-Minimax
+	url = https://github.com/parnianf/Checkers-Game-Using-Minimax.git
+[submodule "Suduko-Solver"]
+	path = Suduko-Solver
+	url = https://github.com/parnianf/Suduko-Solver.git
+[submodule "Suduko-Solver-Using-Genetic-Algorithms"]
+	path = Suduko-Solver-Using-Genetic-Algorithms
+	url = https://github.com/parnianf/Suduko-Solver-Using-Genetic-Algorithms.git
